@@ -1,7 +1,7 @@
 <img alt="coding" height="400" width="1000" src="https://i.pinimg.com/originals/2c/88/fb/2c88fb4b14f508c2f6a95386d54ed99b.jpg">
 <h1 align="center">Hi 👋, I'm Vinayak Kanchan</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-2003&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-2003" /> </p>
 
